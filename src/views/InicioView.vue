@@ -1,0 +1,177 @@
+<template>
+    <div class=" inicio container text-white d-flex align-items-center animate__animated animate__fadeIn">
+
+        <div class="letrero mx-5">
+            <svg width="338px" height="338px" viewBox="0 0 338 338" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+            <path class="circulo1" d="M14.5 169C14.5 83.672 83.672 14.5 169 14.5C254.328 14.5 323.5 83.672 323.5 169C323.5 254.328 254.328 323.5 169 323.5C83.672 323.5 14.5 254.328 14.5 169Z" id="Ellipse" fill="#D3D3D3" fill-opacity="0" fill-rule="evenodd" stroke="#DC1616" stroke-width="1" />
+            <path class="circulo2" d="M0.5 169C0.5 75.94 75.94 0.5 169 0.5C262.06 0.5 337.5 75.94 337.5 169C337.5 262.06 262.06 337.5 169 337.5C75.94 337.5 0.5 262.06 0.5 169Z" id="Ellipse-Copy" fill="#D3D3D3" fill-opacity="0" fill-rule="evenodd" stroke="#DC1616" stroke-width="1" />
+            <g id="FRONT-END-" transform="translate(41.5 82.5)">
+            <g fill="#D3D3D3" fill-opacity="0" stroke="#DC1616" stroke-width="2" id="FRONT">
+                <path class="letras" d="M139.477 51.2273Q142.136 45.8636 142.136 38.5Q142.136 31.1364 139.477 25.7727Q136.818 20.4091 132.182 17.5Q127.545 14.5909 121.591 14.5909Q115.636 14.5909 111 17.5Q106.364 20.4091 103.705 25.7727Q101.045 31.1364 101.045 38.5Q101.045 45.8636 103.705 51.2273Q106.364 56.5909 111 59.5Q115.636 62.4091 121.591 62.4091Q127.545 62.4091 132.182 59.5Q136.818 56.5909 139.477 51.2273ZM24.4091 61.7727L24.4091 15.2273L52.3182 15.2273L52.3182 20.2273L30.0455 20.2273L30.0455 35.9545L50.2273 35.9545L50.2273 40.9545L30.0455 40.9545L30.0455 61.7727L24.4091 61.7727ZM61.9545 61.7727L61.9545 15.2273L77.6818 15.2273Q83.1364 15.2273 86.6364 17.0795Q90.1364 18.9318 91.8182 22.1591Q93.5 25.3864 93.5 29.5Q93.5 34.1364 91.375 37.5795Q89.25 41.0227 84.7955 42.5455L95.3182 61.7727L88.7727 61.7727L78.9545 43.5682Q78.3864 43.5909 77.7727 43.5909L67.5909 43.5909L67.5909 61.7727L61.9545 61.7727ZM188.5 61.7727L183.045 61.7727L157.682 25.2273L157.227 25.2273L157.227 61.7727L151.591 61.7727L151.591 15.2273L157.045 15.2273L182.5 51.8636L182.955 51.8636L182.955 15.2273L188.5 15.2273L188.5 61.7727ZM197.227 15.2273L197.227 20.2273L211.864 20.2273L211.864 61.7727L217.5 61.7727L217.5 20.2273L232.136 20.2273L232.136 15.2273L197.227 15.2273ZM134.67 28.2955Q136.682 32.4545 136.682 38.5Q136.682 44.5455 134.67 48.7045Q132.659 52.8636 129.239 55Q125.818 57.1364 121.591 57.1364Q117.364 57.1364 113.943 55Q110.523 52.8636 108.511 48.7045Q106.5 44.5455 106.5 38.5Q106.5 32.4545 108.511 28.2955Q110.523 24.1364 113.943 22Q117.364 19.8636 121.591 19.8636Q125.818 19.8636 129.239 22Q132.659 24.1364 134.67 28.2955ZM67.5909 38.5L77.5909 38.5Q83.1818 38.5 85.5682 36.0909Q87.9545 33.6818 87.9545 29.5Q87.9545 25.2955 85.5568 22.7614Q83.1591 20.2273 77.5 20.2273L67.5909 20.2273L67.5909 38.5Z" />
+            </g>
+            <g fill="#D3D3D3" fill-opacity="0" stroke="#DC1616" stroke-width="2" id="END">
+                <path class="letras" d="M66.4091 138.773L66.4091 92.2273L94.5 92.2273L94.5 97.2273L72.0455 97.2273L72.0455 112.955L93.0455 112.955L93.0455 117.955L72.0455 117.955L72.0455 133.773L94.8636 133.773L94.8636 138.773L66.4091 138.773ZM141.591 92.2273L141.591 138.773L136.136 138.773L110.773 102.227L110.318 102.227L110.318 138.773L104.682 138.773L104.682 92.2273L110.136 92.2273L135.591 128.864L136.045 128.864L136.045 92.2273L141.591 92.2273ZM152.864 138.773L167.227 138.773Q174.318 138.773 179.273 135.966Q184.227 133.159 186.818 127.92Q189.409 122.682 189.409 115.409Q189.409 108.182 186.841 102.989Q184.273 97.7955 179.455 95.0114Q174.636 92.2273 167.864 92.2273L152.864 92.2273L152.864 138.773ZM166.864 133.773L158.5 133.773L158.5 97.2273L167.5 97.2273Q175.682 97.2273 179.818 102.091Q183.955 106.955 183.955 115.409Q183.955 123.932 179.739 128.852Q175.523 133.773 166.864 133.773Z" />
+            </g>
+            </g>
+            </svg>
+        </div>
+
+        <div class="letrero2 mx-5">
+            <svg width="321px" height="391px" viewBox="0 0 321 391" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+            <path class="path" d="M0.5 0.5L160.5 390.5L320.5 0.5L250.5 0.5L160.5 210.5L70.5 0.5L0.5 0.5Z" id="New-shape" fill="none" fill-rule="evenodd" stroke="#00C24A" stroke-width="2" />
+            <path class="path1" d="M70.5 0.5L160.5 210.5L250.5 0.5L211.125 0.5L160.5 113.577L109.875 0.5L70.5 0.5Z" id="New-shape-Copy" fill="none" fill-rule="evenodd" stroke="#0FC3DB" stroke-width="2" />
+            </svg>
+        </div>
+        
+        
+        
+    </div>
+</template>
+
+<script setup>
+import { anime } from "@maybecode/vue-next-animejs";
+import { onMounted } from "vue";
+import 'animate.css';
+
+onMounted(()=>{
+    anime({
+        targets: ".letrero",
+        translateY: 80,
+        direction: 'alternate',
+        loop: true,
+        easing: 'easeInOutSine'
+         
+      })  
+})
+
+</script>
+
+<style scoped>
+.inicio{
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+.letrero{
+  display: none;
+}
+svg{
+  width: 200px;
+}
+.path {
+  stroke-dasharray: 1440;
+  stroke-dashoffset: 1400;
+  animation: dash 2s linear forwards;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.path1 {
+stroke-dasharray: 800;
+  stroke-dashoffset: 800;
+  animation: dash 2s linear forwards;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+.letras{
+  stroke-dasharray: 1300;
+  stroke-dashoffset: 1300;
+  animation: palpito 0.5s linear forwards;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+@keyframes palpito {
+  to {
+    stroke-dashoffset: 300;
+  }
+}
+
+
+/* PANTALLA PC */
+@media only screen
+  and (min-width : 1224px) {
+.letrero{
+  display: block;
+}
+.letrero2{
+  display: block;
+}
+svg{
+  width: 330px;
+}
+.inicio{
+  height: 100vh;
+}
+.path {
+  stroke-dasharray: 1440;
+  stroke-dashoffset: 1400;
+  animation: dash 5s linear forwards;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.path1 {
+stroke-dasharray: 800;
+  stroke-dashoffset: 800;
+  animation: dash 5s linear forwards;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+.circulo1 {
+  stroke-dasharray: 20;
+  animation: punto 5s linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes punto {
+  to {
+    stroke-dashoffset: 1000;
+  }
+}
+
+.circulo2 {
+  stroke-dasharray: 10;
+  animation: punto2 5s linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes punto2 {
+  to {
+    stroke-dashoffset: 1000;
+  }
+}
+}
+
+/* PANTALLA TABLET */
+@media only screen
+  and (min-width : 600px)
+  and (max-width : 1024px) {
+.letrero{
+  display: block;
+  margin-bottom: 3em;
+}
+.letrero2{
+  display: none;
+}
+.inicio{
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+}
+
+
+</style>
